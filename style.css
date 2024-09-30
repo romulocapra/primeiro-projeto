@@ -1,13 +1,5 @@
 body {
-    /*
-    background-image: url(./final-project/mobile-space.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;
-    */
-
-    /*background*/
-    background: url(./final-project/mobile-space.jpg) no-repeat top center/cover;
+    background: url(./final-project/black-mobile.jpg) no-repeat top center/cover;
 }
 
 #container {
