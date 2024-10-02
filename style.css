@@ -2,6 +2,11 @@ body {
     background: url(./final-project/black-mobile.jpg) no-repeat top center/cover;
 }
 
+body * {
+      font-family: "Noto Sans", system-ui;
+      color: white;
+    }
+
 #container {
     width: 360px;
     height: 712px;
@@ -15,4 +20,9 @@ body {
  
 #profile img {
     width: 112px;
+}
+
+#profile p {
+    font-weight: 500;
+    line-height: 24px;
 }
